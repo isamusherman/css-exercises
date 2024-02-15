@@ -43,6 +43,10 @@ body {
   flex: 1 0 auto;
 }
 
+.header {
+  display: flex;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
