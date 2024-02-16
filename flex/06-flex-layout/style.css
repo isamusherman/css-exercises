@@ -29,11 +29,11 @@ li a{
 .header, .footer{
   display: flex;
   justify-content: space-between;
+  padding: 8px;
 }
 
 .footer{
   background-color: rgb(238, 238, 238);
-  padding: 8px;
 }
 
 .content{
