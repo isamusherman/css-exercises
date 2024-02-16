@@ -6,6 +6,10 @@ body {
   flex-direction: column;
 }
 
+.content{
+  display: flex;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
